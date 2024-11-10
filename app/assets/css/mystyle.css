@@ -1,0 +1,12 @@
+body{font-family:Helvetica!important;}
+
+.select2-container {
+  width: 100% !important;
+}
+.select2-container--default .select2-selection--single, .select2-container--default .select2-selection--multiple, .btn-info, .btn-success{border-radius:0!important;}
+.btn-info{background:#9c8311!important; border:none!important; text-transform:uppercase; font-weight:normal;}
+.btn-success{background:#9c8311!important; border:none!important; text-transform:uppercase; font-weight:normal;}
+
+.btn-info:hover, .btn-success:hover{color:#000!important;}
+
+.red-text{font-size:14px;}
